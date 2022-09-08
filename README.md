@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NellaCaro
 - 👀 I’m interested in data science and data analytics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL, PowerBI, R, Python
 
 <!---
 NellaCaro/NellaCaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
