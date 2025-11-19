@@ -1,10 +1,39 @@
-# 💫 About Me:
-I am currently working as a data analyst.<br>I'm looking to collaborate on report design projects or ETL process.<br>I am currently learning Python, R and ETL tools.<br>I love cats ✨😽
+<h1 align="center">Hello World 👋, I'm Nella</h1>
+<p align="center">
+  Data Analyst Sr & Baby Data Engineer · Python, SQL, BI & a bit of chaos control ⚙️📊
+</p>
+---
+### Developer & data nerd
+```python
+class Nella:
+    def __init__(self):
+        self.name = "Antonella Diaz Caro"
+        self.nickname = "Nella"
+        self.role = "Data Analyst Sr / Data Engineer in progress"
+        self.studies = [
+            "Technical Degree in Data Science and AI",
+            "Bachelor's degree in information management (in progress)"
+        ]
+        self.location = "Argentina / Chile / China (entre CSVs y dashboards)"
+        self.stack = ["Python", "SQL", "Power BI", "Looker Studio",
+                      "AWS Glue", "Athena", "Redash", "Mixpanel"]
 
+    def work_on(self):
+        return "Data pipelines, dashboards, ETLs, and things that break if there are no tests."
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nella_caro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Antonella-diaz-caro) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kyoto_inferno) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25107351) 
+    def interested_in(self):
+        return [
+            "Machine learning applied to business",
+            "Data Engineering",
+            "Automate everything repetitive"
+        ]
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+    def currently_learning(self):
+        return ["AWS", "Data architectures", "Mandarin Chinese 🇨🇳"]
 
+    def fun_facts(self):
+        return [
+            "If I'm not analyzing data, I'm probably at CrossFit trying not to die during a WOD.",
+            "I listen to music for EVERYTHING: working, training, thinking... even debugging (it works 50% of the time)",
+            "I can quote lines from Grey's Anatomy while optimizing a query. I don't know if that's a skill or a red flag."
+        ]
