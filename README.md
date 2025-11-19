@@ -43,3 +43,9 @@ class Nella:
             "I listen to music for EVERYTHING: working, training, thinking… even debugging (it works 50% of the time).",
             "I can quote lines from Grey's Anatomy while optimizing a query. I don't know if that's a skill or a red flag.",
         ]
+
+---
+
+<p align="center">
+“In God we trust; all others must bring data.” — W. Edwards Deming
+</p>
