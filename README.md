@@ -44,8 +44,8 @@ class Nella:
             "I can quote lines from Grey's Anatomy while optimizing a query. I don't know if that's a skill or a red flag.",
         ]
 
+
 ---
 
-<p align="center">
-“In God we trust; all others must bring data.” — W. Edwards Deming
-</p>
+> “In God we trust; all others must bring data.”  
+> — W. Edwards Deming
